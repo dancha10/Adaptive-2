@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'icons';
+  src:  url('../assets/iconsfonts/icons.eot?1yguxh');
+  src:  url('../assets/iconsfonts/icons.eot?1yguxh#iefix') format('embedded-opentype'),
+    url('../assets/iconsfonts/icons.ttf?1yguxh') format('truetype'),
+    url('../assets/iconsfonts/icons.woff?1yguxh') format('woff'),
+    url('../assets/iconsfonts/icons.svg?1yguxh#icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="_icon-"]::before, [class*=" _icon-"]::before {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+._icon-facebook:before {
+  content: "\e900";
+  color: #73787c;
+}
+._icon-victory:before {
+  content: "\e901";
+  color: #2c70c1;
+}
+._icon-check:before {
+  content: "\ce902";
+  color: #2c70c1;
+}
+._icon-medal:before {
+  content: "\e903";
+  color: #2c70c1;
+}
+._icon-peace:before {
+  content: "\e904";
+  color: #2c70c1;
+}
+._icon-phone:before {
+  content: "\e905";
+  color: #63522b;
+}
+._icon-chemistry:before {
+  content: "\e906";
+  color: #3a8241;
+}
+._icon-recycle2:before {
+  content: "\e907";
+  color: #3a8241;
+}
+._icon-learn:before {
+  content: "\e908";
+  color: #63522b;
+}
+._icon-create-3:before {
+  content: "\e909";
+  color: #63522b;
+}
+._icon-group:before {
+  content: "\e90a";
+  color: #3a8241;
+}
+._icon-1:before {
+  content: "\e90b";
+  color: #036fc7;
+}
+._icon-trash:before {
+  content: "\e90c";
+  color: #036fc7;
+}
+._icon-formwork:before {
+  content: "\e90d";
+  color: #036fc7;
+}
+._icon-bricks:before {
+  content: "\e90e";
+  color: #036fc7;
+}
+._icon-facade:before {
+  content: "\e90f";
+  color: #036fc7;
+}
+._icon-roller:before {
+  content: "\e910";
+  color: #036fc7;
+}
+._icon-flag:before {
+  content: "\e911";
+  color: #036fc7;
+}
+._icon-tractor:before {
+  content: "\e912";
+  color: #036fc7;
+}
+._icon-pipe:before {
+  content: "\e913";
+  color: #036fc7;
+}
+._icon-stonks:before {
+  content: "\e914";
+  color: #63522b;
+}
+._icon-recycle:before {
+  content: "\e915";
+  color: #63522b;
+}
+._icon-helmet:before {
+  content: "\e916";
+  color: #63522b;
+}
